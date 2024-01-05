@@ -17,10 +17,6 @@ To get started with the StayCodded Application, follow these steps:
 
 We welcome contributions from the community to improve and expand the Stay Codded Application. If you have ideas for new features, find bugs, or want to contribute to the codebase, please contact me on telegram or instagram.
 
-## Support
-
-If you encounter any issues, have questions, or want to provide feedback, please reach out to our support team at support@codinglearningapp.com.
-
 ## License
 
 This project is licensed under the [MIT LICENCE].
